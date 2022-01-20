@@ -18,6 +18,66 @@ img{
     margin: 5px;
 }
 
+.hover1{
+    width: 300px;
+    position: absolute;
+    top:0px ;
+}
+
+.hover1:hover{
+    opacity: 0;
+}
+
+.hover2:hover{
+    opacity: 0;
+}
+
+.hover3:hover{
+    opacity: 0;
+}
+
+.hover4:hover{
+    opacity: 0;
+}
+
+.hover5:hover{
+    opacity: 0;
+}
+
+.hover6:hover{
+    opacity: 0;
+}
+
+.hover2{
+    width: 300px;
+    position: absolute;
+    top:0px ;
+}
+
+.hover3{
+    width: 300px;
+    position: absolute;
+    top:0px ;
+}
+
+.hover4{
+    width: 300px;
+    position: absolute;
+    top:0px ;
+}
+
+.hover5{
+    width: 300px;
+    position: absolute;
+    top:0px ;
+}
+
+.hover6{
+    width: 300px;
+    position: absolute;
+    top:0px ;
+}
+
 .item{
     width: 300px;
     position: relative;
@@ -35,7 +95,7 @@ img{
 }
 
 .sale{
-    background-color: red;
+    background-color:rgb(243, 7, 46);
     color: white;
 }
     
