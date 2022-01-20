@@ -20,9 +20,15 @@ img{
     display: inline-block;
 }
 
-.item > .sale {
-    position:absolute
-    top: 0;
-    right: 0;
-    background-color: red
+.sale{
+    background-color: red;
+    color: white;
+    position: absolute;
+    
+}
+    
+
+.green{
+    background-color: forestgreen;
+    color: white;
 }
