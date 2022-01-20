@@ -1,17 +1,21 @@
+*{
+    font-family: sans-serif;
+}
+
 body{
     background-color: brown;
+
 }
 
 #container{
     margin: auto;
-    width:1000px;
+    width:1200px;
     border: 1px solid black;
     background-color: white;
-    text-align: center;
 }
 
 img{
-    width: 300px;
+    width: 400px;
 }
 
 .item{
@@ -23,7 +27,6 @@ img{
 .sale{
     background-color: red;
     color: white;
-    position: absolute;
     
 }
     
@@ -31,4 +34,22 @@ img{
 .green{
     background-color: forestgreen;
     color: white;
+}
+
+.position{
+    position: absolute;
+    margin-top: -38px;
+    
+}
+
+.red{
+    color: red;
+}
+
+.line{
+    text-decoration: line-through;
+}
+
+.title{
+    margin-top: 5px;
 }
