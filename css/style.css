@@ -3,3 +3,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.container{
+    width: 800px;
+    height: 600px;
+    border-style:solid 3px color red ;
+}
+
+.size1{
+    width: 100px;
+    height: 300px;
+}
