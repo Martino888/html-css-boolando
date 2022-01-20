@@ -14,11 +14,8 @@
     width: 400px;
 }
 
-.album-title, .album-number{
+.album-title .album-number{
     margin: 10px 0;
     font-size: 20px;
 }
 
-.album-number{
-    
-}
